@@ -1,3 +1,0 @@
-	1	This text is from A.txt
-	2	This text is from B.txt
-	3	This text is from C.txt
